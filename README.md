@@ -1,4 +1,4 @@
-# # Movie Rental Hub
+#  Movie Rental Hub
 
 ## Overview
 Movie Rental Hub is a full-stack (MERN) application designed to provide users with access to top movie and actor listings, enhanced search functionality, and customer rental tracking features. Leveraging technologies such as Express.js, React.js, MySQL, and Node.js, this app offers a comprehensive solution for movie enthusiasts and rental businesses alike.
